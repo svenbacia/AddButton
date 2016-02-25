@@ -1,6 +1,6 @@
 # AddButton
 
-[![CI Status](http://img.shields.io/travis/Sven Bacia/AddButton.svg?style=flat)](https://travis-ci.org/Sven Bacia/AddButton)
+[![CI Status](http://img.shields.io/travis/svenbacia/AddButton.svg?style=flat)](https://travis-ci.org/svenbacia/AddButton)
 [![Version](https://img.shields.io/cocoapods/v/AddButton.svg?style=flat)](http://cocoapods.org/pods/AddButton)
 [![License](https://img.shields.io/cocoapods/l/AddButton.svg?style=flat)](http://cocoapods.org/pods/AddButton)
 [![Platform](https://img.shields.io/cocoapods/p/AddButton.svg?style=flat)](http://cocoapods.org/pods/AddButton)
