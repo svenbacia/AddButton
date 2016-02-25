@@ -1,0 +1,26 @@
+{
+  "name": "AddButton",
+  "version": "1.0.0",
+  "summary": "AddButton is a simple button which can have two states. One will display an add sign, the other a checkmark.",
+  "description": "",
+  "homepage": "https://github.com/svenbacia/AddButton",
+  "license": "MIT",
+  "authors": {
+    "Sven Bacia": "sven.bacia@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/svenbacia/AddButton.git",
+    "tag": "1.0.0"
+  },
+  "social_media_url": "https://twitter.com/svenbacia",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "AddButton": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

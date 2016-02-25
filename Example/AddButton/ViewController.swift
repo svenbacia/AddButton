@@ -7,18 +7,21 @@
 //
 
 import UIKit
+import AddButton
 
 class ViewController: UIViewController {
-
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-    }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
+  
+  @IBOutlet weak var button: AddButton!
+  
+  override func viewDidLoad() {
+    super.viewDidLoad()
+    
+    // add a border when needed
+    // button.border(width: 4.0, color: UIColor.blackColor(), cornerRadius: 8.0)
+  }
+  
+  @IBAction func addButtonTapped(sender: AddButton) {
+    sender.added = !sender.added
+  }
 }
 

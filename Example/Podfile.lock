@@ -1,0 +1,14 @@
+PODS:
+  - AddButton (1.0.0)
+
+DEPENDENCIES:
+  - AddButton (from `../`)
+
+EXTERNAL SOURCES:
+  AddButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AddButton: c2e1e4b1b5ab942793ddc8f5bb8e2abe70404c1a
+
+COCOAPODS: 0.39.0
